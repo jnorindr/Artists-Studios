@@ -1,0 +1,13 @@
+{
+  "id" : "https://jnorindr.github.io/Artists-Studios/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jnorindr/Artists-Studios project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json",
+    "label" : "Edmond Bénard, Artists' studios, 1890-1910"
+  } ]
+}
