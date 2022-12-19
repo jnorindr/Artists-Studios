@@ -229,8 +229,5 @@
     "@type" : "sc:Range",
     "label" : "Alexandre Falguière",
     "canvases" : [ "http://95cd42fb-80df-4173-9125-68776e12c216" ]
-  } ],
-  "thumbnail" : {
-    "@id" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
-  }
+  } ]
 }
