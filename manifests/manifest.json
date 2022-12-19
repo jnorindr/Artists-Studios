@@ -1,0 +1,236 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Edmond Bénard, Artists' studios, 1890-1910",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Edmond Bénard (1838-1907)"
+  }, {
+    "label" : "Date",
+    "value" : "1890-1910"
+  }, {
+    "label" : "Type",
+    "value" : "Albumen prints"
+  }, {
+    "label" : "Institution",
+    "value" : "Library of the Institut national d'histoire de l'art"
+  }, {
+    "label" : "Collection",
+    "value" : "Jacques Doucet collection"
+  }, {
+    "label" : "Id Number",
+    "value" : "NUM 4 PHOT 55;NUM FOL PHOT 39"
+  } ],
+  "description" : [ {
+    "@value" : "This project analyses a selection of photographs of nineteenth-century artists posing in their studio. The photographs were taken by Edmond Bénard between 1890 and 1910, and assembled in five albums. Using IIIF tools, this project aim is to discover the workspace of five artists and draw a parallel between their studios and their influences, techniques and work.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Library of the Institut National d'Histoire de l'Art, Jacques Doucet collections",
+  "viewingHint" : "individuals",
+  "sequences" : [ {
+    "@id" : "http://1da1024c-daff-4007-8ebb-33c570a98e63",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5",
+      "@type" : "sc:Canvas",
+      "label" : "William Adolphe Bouguereau",
+      "height" : 1299,
+      "width" : 1707,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://60cace70-f43b-4f07-bca8-64935aa57eba",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/88/19/91/30/88199130-e40c-4d0a-a6da-cc58c4d3afd0/iiif/1053_doucet_fphot39_01_000019.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/88/19/91/30/88199130-e40c-4d0a-a6da-cc58c4d3afd0/iiif/1053_doucet_fphot39_01_000019.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 5000,
+              "maxHeight" : 5000
+            } ]
+          },
+          "height" : 1299,
+          "width" : 1707
+        },
+        "on" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95",
+      "@type" : "sc:Canvas",
+      "label" : "Pierre Puvis de Chavannes",
+      "height" : 2067,
+      "width" : 2620,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://01017cf9-ed30-4e0d-9b9a-fc99eb961689",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/bd/12/a6/03/bd12a603-8cf4-4f57-9d4e-4cb659c0bf6e/iiif/1053_doucet_4PHOT55_000021.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/bd/12/a6/03/bd12a603-8cf4-4f57-9d4e-4cb659c0bf6e/iiif/1053_doucet_4PHOT55_000021.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 5000,
+              "maxHeight" : 5000
+            } ]
+          },
+          "height" : 2067,
+          "width" : 2620
+        },
+        "on" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://42333f2a-e37e-45e7-940f-48ca04289ec0",
+      "@type" : "sc:Canvas",
+      "label" : "Jean-Jules-Antoine Lecomte de Nouÿ",
+      "height" : 1260,
+      "width" : 1638,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cc4bff3c-8aa4-4319-859c-7fa187157140",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/00/b3/ef/b4/00b3efb4-260a-4d99-9002-595b6844e230/iiif/1053_doucet_fphot39_02_000020.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/00/b3/ef/b4/00b3efb4-260a-4d99-9002-595b6844e230/iiif/1053_doucet_fphot39_02_000020.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 5000,
+              "maxHeight" : 5000
+            } ]
+          },
+          "height" : 1260,
+          "width" : 1638
+        },
+        "on" : "http://42333f2a-e37e-45e7-940f-48ca04289ec0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7",
+      "@type" : "sc:Canvas",
+      "label" : "Jean-Léon Gérôme",
+      "height" : 2120,
+      "width" : 2800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://39309530-be33-462a-8747-be998c8ce797",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/bd/12/a6/03/bd12a603-8cf4-4f57-9d4e-4cb659c0bf6e/iiif/1053_doucet_4PHOT55_000052.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/bd/12/a6/03/bd12a603-8cf4-4f57-9d4e-4cb659c0bf6e/iiif/1053_doucet_4PHOT55_000052.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 5000,
+              "maxHeight" : 5000
+            } ]
+          },
+          "height" : 2120,
+          "width" : 2800
+        },
+        "on" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://95cd42fb-80df-4173-9125-68776e12c216",
+      "@type" : "sc:Canvas",
+      "label" : "Alexandre Falguière",
+      "height" : 1260,
+      "width" : 1638,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a743b2d1-ee83-40d4-a8f4-18da12f7f353",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/00/b3/ef/b4/00b3efb4-260a-4d99-9002-595b6844e230/iiif/1053_doucet_fphot39_02_000011.tif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://bibliotheque-numerique.inha.fr/i/?IIIF=/00/b3/ef/b4/00b3efb4-260a-4d99-9002-595b6844e230/iiif/1053_doucet_fphot39_02_000011.tif",
+            "profile" : [ "http://iiif.io/api/image/2/level2", {
+              "formats" : [ "jpg", "png" ],
+              "qualities" : [ "native", "color", "gray", "bitonal" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "sizeUpscaling", "rotationBy90s", "mirroring" ],
+              "maxWidth" : 5000,
+              "maxHeight" : 5000
+            } ]
+          },
+          "height" : 1260,
+          "width" : 1638
+        },
+        "on" : "http://95cd42fb-80df-4173-9125-68776e12c216"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/1", "http://example.org/iiif/book1/range/2", "http://example.org/iiif/book1/range/3", "http://example.org/iiif/book1/range/4", "http://example.org/iiif/book1/range/5" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/1",
+    "@type" : "sc:Range",
+    "label" : "William Adolphe Bouguereau",
+    "canvases" : [ "http://303fb864-6520-46c1-a35d-d02cf2886ff5" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/2",
+    "@type" : "sc:Range",
+    "label" : "Pierre Puvis de Chavannes",
+    "canvases" : [ "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/3",
+    "@type" : "sc:Range",
+    "label" : "Jean-Jules-Antoine Lecomte de Nouÿ",
+    "canvases" : [ "http://42333f2a-e37e-45e7-940f-48ca04289ec0" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/4",
+    "@type" : "sc:Range",
+    "label" : "Jean-Léon Gérôme",
+    "canvases" : [ "http://48ada32f-6714-4453-aaeb-0b98fa926cc7" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/5",
+    "@type" : "sc:Range",
+    "label" : "Alexandre Falguière",
+    "canvases" : [ "http://95cd42fb-80df-4173-9125-68776e12c216" ]
+  } ],
+  "thumbnail" : {
+    "@id" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+  }
+}
