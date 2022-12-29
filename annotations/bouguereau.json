@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "William-Adolphe Bouguereau (1825&ndash;1905) was a French academic painter. As a salon painter, his work focused on classical subjects, with a particular interest for mythological and religious themes, and the woman body.\nBouguereau was a fairly popular painter during his time, despite being criticized by artists such as the Impressionists, or art critics like &Eacute;mile Zola who described his paintings as superficial. He fell out of favor at the beginning of the twentieth century, mainly due to the artistic innovations and changing tastes of the time.\nHis studio was located in a house built for the artist by architect Jean-Louis Pascal in 1867, in the 6th arrondissement of Paris. Located on the top floor of the building, Bouguereau's studio had tall windows for the painter to be able to work with good lighting. Thought specially for Bouguereau, the studio was spacious, with room for the artist to work on large paintings with models and students.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Self_portrait%2C_by_William_Bouguereau.jpg/504px-Self_portrait%2C_by_William_Bouguereau.jpg\" alt=\"Self-portrait\" width=\"400\" height=\"476\" />\nWilliam-Adolphe Bouguereau, Self-portrait, 1879, oil on canvas (Canada, Montreal Museum of Fine Arts).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>William-Adolphe Bouguereau (1825&ndash;1905) was a French academic painter. As a salon painter, his work focused on classical subjects, with a particular interest for mythological and religious themes, and the woman body.</p>\n<p>Bouguereau was a fairly popular painter during his time, despite being criticized by artists such as the Impressionists, or art critics like &Eacute;mile Zola who described his paintings as superficial. He fell out of favor at the beginning of the twentieth century, mainly due to the artistic innovations and changing tastes of the time.</p>\n<p>His studio was located in a house built for the artist by architect Jean-Louis Pascal in 1867, in the 6th arrondissement of Paris. Located on the top floor of the building, Bouguereau's studio had tall windows for the painter to be able to work with good lighting. Thought specially for Bouguereau, the studio was spacious, with room for the artist to work on large paintings with models and students.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Self_portrait%2C_by_William_Bouguereau.jpg/504px-Self_portrait%2C_by_William_Bouguereau.jpg\" alt=\"Self-portrait\" width=\"400\" height=\"476\" /></p>\n<p>William-Adolphe Bouguereau, <em>Self-portrait</em>, 1879, oil on canvas (Canada, Montreal Museum of Fine Arts).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:39:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241997703",
+    "dcterms:modified" : "2022-12-29T20:48:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=640,422,384,730"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1024.04803,1152.72514h-192.02621v0h-192.02621v-365.23603v-365.23603h192.02621h192.02621v365.23603z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_79471690-a640-4a19-aadf-926212db36e4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"17.01375\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sketch for Compassion, a painting Bouguereau exhibited during the 1897 Salon.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/William-Adolphe_Bouguereau_%281825-1905%29_-_Compassion_%281897%29.jpg/273px-William-Adolphe_Bouguereau_%281825-1905%29_-_Compassion_%281897%29.jpg\" alt=\"Painting of the Christ on the cross\" width=\"250\" height=\"548\" />\nAnother picture of Bouguereau's atelier taken by Edmond B&eacute;nard shows the artist working on the aforementionned painting with a model.\n<img src=\"https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/PPA/41038-18.jpg?itok=wtiR8TTS\" alt=\"Bouguereau painting Compassion\" width=\"400\" height=\"527\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sketch for <em>Compassion</em>, a painting Bouguereau exhibited during the 1897 Salon.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/William-Adolphe_Bouguereau_%281825-1905%29_-_Compassion_%281897%29.jpg/273px-William-Adolphe_Bouguereau_%281825-1905%29_-_Compassion_%281897%29.jpg\" alt=\"Painting of the Christ on the cross\" width=\"250\" height=\"548\" /></p>\n<p>Another picture of Bouguereau's atelier taken by Edmond B&eacute;nard shows the artist working on the aforementionned painting with a model.</p>\n<p><img src=\"https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/PPA/41038-18.jpg?itok=wtiR8TTS\" alt=\"Bouguereau painting Compassion\" width=\"400\" height=\"527\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-22T15:34:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671723276886",
+    "dcterms:modified" : "2022-12-29T20:47:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=74,607,223,262"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M74.32909,619.64231l6.28364,249.77455l216.78545,-10.99636l-12.56727,-251.34545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_d756f74f-f3ee-4d83-9606-cccd43948572\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"17.01375\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "William Adolphe Bouguereau,&nbsp;The Wave, 1896, oil on canvas, 121x160.5 cm (France, private collection).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/William-Adolphe_Bouguereau_%281825-1905%29_-_The_Wave_%281896%29-2.jpg/794px-William-Adolphe_Bouguereau_%281825-1905%29_-_The_Wave_%281896%29-2.jpg\" alt=\"Painting of a naked woman on the sea\" width=\"550\" height=\"418\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>William Adolphe Bouguereau,&nbsp;<em>The Wave</em>, 1896, oil on canvas, 121x160.5 cm (France, private collection).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/William-Adolphe_Bouguereau_%281825-1905%29_-_The_Wave_%281896%29-2.jpg/794px-William-Adolphe_Bouguereau_%281825-1905%29_-_The_Wave_%281896%29-2.jpg\" alt=\"Painting of a naked woman on the sea\" width=\"550\" height=\"418\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-22T15:33:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671723231782",
+    "dcterms:modified" : "2022-12-29T20:46:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=189,283,558,500"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M198.43091,283.22413l-9.42545,179.08364l65.97818,3.14182l6.28364,138.24l23.56364,3.14182l10.99636,175.94182l284.33455,-31.41818l4.71273,-10.99636l28.27636,-9.42545l29.84727,1.57091l12.56727,14.13818l25.13455,-1.57091l7.85455,-17.28l-1.57091,-7.85455l42.41455,-92.68364l17.28,-300.04364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_37ec8c2c-596a-44d7-8930-8afe08a1a3d2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"17.01375\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sketch or replica of a Madonna, a reoccuring theme in Bouguereau's work after the loss of his mother in 1877.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sketch or replica of a Madonna, a reoccuring theme in Bouguereau's work after the loss of his mother in 1877.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-22T15:37:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671723447963",
+    "dcterms:modified" : "2022-12-29T14:40:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1513,771,101,118"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1543.40103,889.07925l70.90909,-9.09091l-37.27273,-109.09091l-63.63636,8.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_792a27b2-ad88-4784-8e00-a2ab28dd8890\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"0.97606\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Painted study for the head of Cupid in Admiration.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Painted study for the head of Cupid in <em>Admiration</em>.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T14:41:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672324899974",
+    "dcterms:modified" : "2022-12-29T14:42:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1093,821,102,135"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1151.41093,820.95176l-58.18182,7.27273l15.45455,128.18182l86.36364,-10.90909l-1.81818,-24.54545l-42.72727,1.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_38df24a3-3100-4191-b9ca-ea86d02bde36\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"7.85455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "William Adolphe Bouguereau,&nbsp;Admiration, 1897, oil on canvas, 147x198 cm (United States, Texas, San Antonio Museum of Art).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/William-Adolphe_Bouguereau_%281825-1905%29_-_Admiration_%281897%29.jpg/797px-William-Adolphe_Bouguereau_%281825-1905%29_-_Admiration_%281897%29.jpg\" alt=\"Painting of an angel surrounded by five women\" width=\"550\" height=\"413\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>William Adolphe Bouguereau,<em>&nbsp;Admiration</em>, 1897, oil on canvas, 147x198 cm (United States, Texas, San Antonio Museum of Art).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/William-Adolphe_Bouguereau_%281825-1905%29_-_Admiration_%281897%29.jpg/797px-William-Adolphe_Bouguereau_%281825-1905%29_-_Admiration_%281897%29.jpg\" alt=\"Painting of an angel surrounded by five women\" width=\"550\" height=\"413\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-22T15:35:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671723357136",
+    "dcterms:modified" : "2022-12-29T20:47:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1238,304,435,520"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1260.36545,303.88959l-21.99273,519.97091l141.38182,-15.70909l-1.81818,-13.06181l105.00364,-8.76364l6.11636,9.75273l24.22546,-3.63636l-1.57091,-14.63272l65.73091,-7.85455l6.03637,9.25818l26.95273,-5.20727l9.67273,13.72363l36.13091,-1.57091l17.28,-453.99273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_f8f15d40-4cbe-4f7b-b986-1a6b5970422e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"17.01375\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
+    } ]
+  } ],
+  "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/bouguereau.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
