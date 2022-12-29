@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://jnorindr.github.io/Artists-Studios/annotations/bouguereau.json", "https://jnorindr.github.io/Artists-Studios/annotations/chavannes.json", "https://jnorindr.github.io/Artists-Studios/annotations/falguiere.json" ],
+  "otherContent" : [ "https://jnorindr.github.io/Artists-Studios/annotations/bouguereau.json", "https://jnorindr.github.io/Artists-Studios/annotations/chavannes.json", "https://jnorindr.github.io/Artists-Studios/annotations/falguiere.json", "https://jnorindr.github.io/Artists-Studios/annotations/gerome.json" ],
   "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/collection.json",
   "label" : "All annotations loaded in jnorindr/Artists-Studios project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
