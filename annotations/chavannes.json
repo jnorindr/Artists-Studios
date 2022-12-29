@@ -1,0 +1,303 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre-C&eacute;cile Puvis de Chavannes (1824&ndash;1898) was a French symbolist painter known for his mural painting. He co-founded in 1890 the Soci&eacute;t&eacute; Nationale des Beaux-Arts, which exhibited in salons the work of his contemporary.\nAs a representative of allegorical painting, he was heavily criticized when he started exhibiting his work at the Salon. The allegorical aspect of his work however made him the designated artist for the ornamentation of museums and city halls, and therefore received numerous requests from the state or from municipal governments to paint monumental paintings in public buildings. As a mural painter, he often worked outside of his studio.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/0/02/Puvis_de_Chavannes_d%C3%A9corant_l%27h%C3%B4tel_de_ville.jpg\" alt=\"Chavannes painting a mural\" width=\"400\" height=\"289\" />\n\"French painter Pierre Puvis de Chavannes working on the decoration of the Paris H&ocirc;tel de ville\", in L'Artiste, 1894.\nIn his studios in Pigalle and Neuilly, he worked on smaller versions of his mural paintings, and original works on canvas.\n<img src=\"https://i.pinimg.com/originals/32/f1/db/32f1db44dc55fc608c8e46f99dbe1ad1.jpg\" alt=\"Self-portrait of Puvis de Chavannes\" width=\"400\" height=\"483\" />\nPierre Puvis de Chavannes, Portrait of the artist, c. 1887, oil on canvas (France, Orsay Museum).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre-C&eacute;cile Puvis de Chavannes (1824&ndash;1898) was a French symbolist painter known for his mural painting. He co-founded in 1890 the <em>Soci&eacute;t&eacute; Nationale des Beaux-Arts</em>, which exhibited in salons the work of his contemporary.</p>\n<p>As a representative of allegorical painting, he was heavily criticized when he started exhibiting his work at the Salon. The allegorical aspect of his work however made him the designated artist for the ornamentation of museums and city halls, and therefore received numerous requests from the state or from municipal governments to paint monumental paintings in public buildings. As a mural painter, he often worked outside of his studio.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/0/02/Puvis_de_Chavannes_d%C3%A9corant_l%27h%C3%B4tel_de_ville.jpg\" alt=\"Chavannes painting a mural\" width=\"400\" height=\"289\" /></p>\n<p>\"French painter Pierre Puvis de Chavannes working on the decoration of the Paris H&ocirc;tel de ville\", in <em>L'Artiste, </em>1894.</p>\n<p>In his studios in Pigalle and Neuilly, he worked on smaller versions of his mural paintings, and original works on canvas.</p>\n<p><img src=\"https://i.pinimg.com/originals/32/f1/db/32f1db44dc55fc608c8e46f99dbe1ad1.jpg\" alt=\"Self-portrait of Puvis de Chavannes\" width=\"400\" height=\"483\" /></p>\n<p>Pierre Puvis de Chavannes, <em>Portrait of the artist</em>, c. 1887, oil on canvas (France, Orsay Museum).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:01:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672243270225",
+    "dcterms:modified" : "2022-12-29T20:50:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1372,1101,198,576"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1372.46818,1101.03944h98.91917v0h98.91917v287.90316v287.90316h-98.91917h-98.91917v-287.90316z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_088b3b0e-13df-4a40-a399-68a15d21b008\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"21.05172\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This work is a small scale replica of The Sacred Grove, Beloved of the Arts and the Muses, a painting Chavannes realized in 1884 for the staircase of the Lyon Museum of Fine Arts.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pierre_Puvis_de_Chavannes_-_The_Sacred_Grove%2C_Beloved_of_the_Arts_and_the_Muses_-_1922.445_-_Art_Institute_of_Chicago.jpg/1400px-Pierre_Puvis_de_Chavannes_-_The_Sacred_Grove%2C_Beloved_of_the_Arts_and_the_Muses_-_1922.445_-_Art_Institute_of_Chicago.jpg\" alt=\"Painting of the muses\" width=\"550\" height=\"239\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This work is a small scale replica of <em>The Sacred Grove, Beloved of the Arts and the Muses</em>, a painting Chavannes realized in 1884 for the staircase of the Lyon Museum of Fine Arts.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pierre_Puvis_de_Chavannes_-_The_Sacred_Grove%2C_Beloved_of_the_Arts_and_the_Muses_-_1922.445_-_Art_Institute_of_Chicago.jpg/1400px-Pierre_Puvis_de_Chavannes_-_The_Sacred_Grove%2C_Beloved_of_the_Arts_and_the_Muses_-_1922.445_-_Art_Institute_of_Chicago.jpg\" alt=\"Painting of the muses\" width=\"550\" height=\"239\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:37:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241828967",
+    "dcterms:modified" : "2022-12-29T20:50:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1888,1159,366,242"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1888.05625,1165.10996l11.81818,208.18182l354.54545,27.27273l-15.45455,-241.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_1f73d69d-ce0b-452a-8ba1-f02a6d8272b3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"21.05172\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, St. Mary Magdalene in the Desert, 1870, oil on canvas, 156x105 cm (Germany, Frankfurt, St&auml;del museum).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Puvis_de_Chavannes-Mary_Magdalene_in_the_Desert%2C1869.jpg/451px-Puvis_de_Chavannes-Mary_Magdalene_in_the_Desert%2C1869.jpg\" alt=\"Mary Magdalene holding a skull in the desert\" width=\"400\" height=\"531\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, <em>St. Mary Magdalene in the Desert</em>, 1870, oil on canvas, 156x105 cm (Germany, Frankfurt, St&auml;del museum).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Puvis_de_Chavannes-Mary_Magdalene_in_the_Desert%2C1869.jpg/451px-Puvis_de_Chavannes-Mary_Magdalene_in_the_Desert%2C1869.jpg\" alt=\"Mary Magdalene holding a skull in the desert\" width=\"400\" height=\"531\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:35:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241753460",
+    "dcterms:modified" : "2022-12-29T20:50:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1306,469,285,423"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1305.53858,482.55869l7.27273,409.09091l278.18182,-7.27273l-4.54545,-415.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_98da3908-f610-4b69-ac48-08710a17df92\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"12.18271\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, <span class=\"artwork-tombstone--value\">Ludus pro patria (Patriotic Games), <span class=\"artwork-tombstone--value\">c. 1883&ndash;89, oil on canvas, 33x134 cm (United States, New York, Metropolitan Museum of Art).\n<img src=\"https://collectionapi.metmuseum.org/api/collection/v1/iiif/437347/1728767/main-image\" alt=\"\" width=\"550\" height=\"147\" />\nThis painting is a small-scale replica of a monumental painting Chavannes created for the staircase of the Picardie museum (Amiens) in 1882.\n<img src=\"https://www.rivagedeboheme.fr/medias/images/musee-de-picardie.-puvis-de-chavannes-pro-patria-ludus-1881.jpg\" alt=\"\" width=\"550\" height=\"362\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, <span class=\"artwork-tombstone--value\"><em>Ludus pro patria</em> (Patriotic Games), </span><span class=\"artwork-tombstone--value\">c. 1883&ndash;89, oil on canvas, 33x134 cm (United States, New York, Metropolitan Museum of Art).</span></p>\n<p><img src=\"https://collectionapi.metmuseum.org/api/collection/v1/iiif/437347/1728767/main-image\" alt=\"\" width=\"550\" height=\"147\" /></p>\n<p>This painting is a small-scale replica of a monumental painting Chavannes created for the staircase of the Picardie museum (Amiens) in 1882.</p>\n<p><img src=\"https://www.rivagedeboheme.fr/medias/images/musee-de-picardie.-puvis-de-chavannes-pro-patria-ludus-1881.jpg\" alt=\"\" width=\"550\" height=\"362\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-21T17:07:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671642429870",
+    "dcterms:modified" : "2022-12-29T20:49:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=543,1222,408,136"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M546.5574,1226.40251l-3.27273,132l278.18182,-13.09091l-8.72727,-26.18182l67.63636,-3.27273l7.63636,14.18182l16.36364,-1.09091l-2.18182,-6.54545l7.63636,1.09091l1.09091,6.54545l18.54545,1.09091l1.09091,9.81818l17.45455,-1.09091l3.27273,-117.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_f2e00911-76cf-4ceb-bb8f-4c08c5fcf904\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00cf\" stroke-width=\"24.36542\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, Peace, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg/1236px-Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg\" alt=\"Painting of a group of people in an Antique setting\" width=\"550\" height=\"399\" />\nThis work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, Peace, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg/1236px-Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg\" alt=\"Painting of a group of people in an Antique setting\" width=\"550\" height=\"399\" /></p>\n<p>This work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:33:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241601378",
+    "dcterms:modified" : "2022-12-29T20:49:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=205,276,506,380"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M204.82148,460.55316l2.38165,122.65472l490.61889,72.64018l13.09905,-328.66702l-260.79014,-51.20537h-50.01455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_b8db12a4-c9d9-4dc8-82f7-91fa3086a5cb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"24.36542\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, Young Girls by the Seaside, 1879, oil on canvas, 205x156 cm (France, Paris, Orsay museum).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Puvis_de_Chavannes_Jeunes_Filles_au_bord_de_la_mer_1879.jpg/424px-Puvis_de_Chavannes_Jeunes_Filles_au_bord_de_la_mer_1879.jpg\" alt=\"Painting of three young women on the seaside\" width=\"400\" height=\"566\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, <em>Young Girls by the Seaside</em>, 1879, oil on canvas, 205x156 cm (France, Paris, Orsay museum).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Puvis_de_Chavannes_Jeunes_Filles_au_bord_de_la_mer_1879.jpg/424px-Puvis_de_Chavannes_Jeunes_Filles_au_bord_de_la_mer_1879.jpg\" alt=\"Painting of three young women on the seaside\" width=\"400\" height=\"566\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:36:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241801867",
+    "dcterms:modified" : "2022-12-29T20:50:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1749,325,467,713"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1749.09091,461.19506l41.81818,576.36364l425.45455,-25.45455l-58.18182,-687.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_caaf8224-752e-40c1-b503-4036ff5f7fb6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"17.5431\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, Work, c. 1863, oil on canvas, 108x148 cm (United Kingdom, London, National Gallery of Art).\n<img src=\"https://media.nga.gov/iiif/a3ca76a4-9323-43c1-84d3-be5b7d976bd5/full/full/0/default.jpg?attachment_filename=work_1942.9.55.jpg\" alt=\"Painting of a group of men working\" width=\"550\" height=\"397\" />\nThis work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, <em>Work</em>, c. 1863, oil on canvas, 108x148 cm (United Kingdom, London, National Gallery of Art).</p>\n<p><img src=\"https://media.nga.gov/iiif/a3ca76a4-9323-43c1-84d3-be5b7d976bd5/full/full/0/default.jpg?attachment_filename=work_1942.9.55.jpg\" alt=\"Painting of a group of men working\" width=\"550\" height=\"397\" /></p>\n<p>This work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:34:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241675842",
+    "dcterms:modified" : "2022-12-29T20:49:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=201,747,523,382"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M220.90909,747.02139l-17.27273,285.45455l-2.72727,83.63636l493.63636,12.72727l29.09091,-328.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_7d9f0294-d274-488f-a3c1-14aae864540f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"24.36542\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, Rest, c. 1863, oil on canvas, 108x148 cm (United Kingdom, London, National Gallery of Art).\n<img src=\"https://media.nga.gov/iiif/540136ab-88fa-429e-9996-26902dd06662/full/full/0/default.jpg?attachment_filename=rest_1942.9.54.jpg\" alt=\"Painting of a group resting\" width=\"550\" height=\"398\" />\nThis work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, <em>Rest</em>, c. 1863, oil on canvas, 108x148 cm (United Kingdom, London, National Gallery of Art).</p>\n<p><img src=\"https://media.nga.gov/iiif/540136ab-88fa-429e-9996-26902dd06662/full/full/0/default.jpg?attachment_filename=rest_1942.9.54.jpg\" alt=\"Painting of a group resting\" width=\"550\" height=\"398\" /></p>\n<p>This work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:35:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241709525",
+    "dcterms:modified" : "2022-12-29T20:49:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=822,817,382,321"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M840.99312,817.10415l-19.09091,314.54545l359.09091,6.36364l22.72727,-282.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_7f1ea0d6-d5e9-4b6e-9da9-304cbb05331b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"24.36542\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, War, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pierre_Puvis_de_Chavannes%2C_French_-_War_-_Google_Art_Project.jpg/1239px-Pierre_Puvis_de_Chavannes%2C_French_-_War_-_Google_Art_Project.jpg\" alt=\"\" width=\"550\" height=\"400\" />\nThis work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pierre Puvis de Chavannes, <em>War</em>, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pierre_Puvis_de_Chavannes%2C_French_-_War_-_Google_Art_Project.jpg/1239px-Pierre_Puvis_de_Chavannes%2C_French_-_War_-_Google_Art_Project.jpg\" alt=\"\" width=\"550\" height=\"400\" /></p>\n<p>This work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T15:33:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672241635965",
+    "dcterms:modified" : "2022-12-29T20:49:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=840,365,361,368"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M851.91744,365.20321l-11.81818,318.18182l347.27273,50l13.63636,-276.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_f82a4763-939d-48ba-8ead-0a4ec5bc163c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"24.36542\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
+    } ]
+  } ],
+  "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/chavannes.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
