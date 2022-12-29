@@ -1,0 +1,369 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chinese covered vase.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chinese covered vase.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:57:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672340260384",
+    "dcterms:modified" : "2022-12-29T20:59:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2263,699,87,111"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2263.45455,698.69601h43.72727v0h43.72727v55.54545v55.54545h-43.72727h-43.72727v-55.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_175fe4d9-7a76-4fde-8791-505ab43e21a2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"6.45768\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This small painting appears to be a view of a Greek or Roman temple: G&eacute;r&ocirc;me discovered antique architecture during his travel to Italy in 1843.\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This small painting appears to be a view of a Greek or Roman temple: G&eacute;r&ocirc;me discovered antique architecture during his travel to Italy in 1843.</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:12:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672243952674",
+    "dcterms:modified" : "2022-12-29T18:47:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=991,767,79,60"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M990.84961,767.32266l1.93731,57.15051l77.49222,2.90596l-0.96865,-57.15051z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_07c547a8-d4c8-486c-930e-0aacdb3de562\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"0.94198\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jean-L&eacute;on G&eacute;r&ocirc;me, Thebes Colosseums, Memnon and Sesostris (study), 1856, oil on canvas (France, Vesoul, Mus&eacute;e Georges-Garret).\n<img src=\"https://fr.muzeo.com/sites/default/files/styles/image_basse_def/public/oeuvres/peinture/moderne/le_colosse_de_theebes309868.jpg?itok=gmokuJag\" alt=\"Painting of two statues in the desert\" width=\"400\" height=\"464\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jean-L&eacute;on G&eacute;r&ocirc;me, <em>Thebes Colosseums, Memnon and Sesostris (study)</em>, 1856, oil on canvas (France, Vesoul, Mus&eacute;e Georges-Garret).</p>\n<p><img src=\"https://fr.muzeo.com/sites/default/files/styles/image_basse_def/public/oeuvres/peinture/moderne/le_colosse_de_theebes309868.jpg?itok=gmokuJag\" alt=\"Painting of two statues in the desert\" width=\"400\" height=\"464\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:12:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672243929996",
+    "dcterms:modified" : "2022-12-29T20:53:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=850,899,89,112"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M850.29038,898.59065v112.14674h85.36543l3.34766,-107.12524z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_afd632b9-ecb6-4094-a5ef-ab76e3ea20be\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"27.76686\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chinese ceramic.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chinese ceramic.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:49:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672339746155",
+    "dcterms:modified" : "2022-12-29T18:49:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1023,359,62,112"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1022.91597,359.15h31v0h31v56v56h-31h-31v-56z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a124d36f-4b29-4f8b-8d16-e60b5ba2dfac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ewer. Copper or silver ewers were often crafted in Iran or in Egypt: with its very specific shape, this object of G&eacute;r&ocirc;me own collection was used in his painting A Joke to construct the impression of an Oriental setting.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jean_leon_gerome_une_plaisanterie_1882.jpg/727px-Jean_leon_gerome_une_plaisanterie_1882.jpg\" alt=\"A Joke\" width=\"550\" height=\"455\" />\nJean-L&eacute;on G&eacute;r&ocirc;me, A Joke, 1882, oil on canvas (private collection).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ewer. Copper or silver ewers were often crafted in Iran or in Egypt: with its very specific shape, this object of G&eacute;r&ocirc;me own collection was used in his painting <em>A Joke</em> to construct the impression of an Oriental setting.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jean_leon_gerome_une_plaisanterie_1882.jpg/727px-Jean_leon_gerome_une_plaisanterie_1882.jpg\" alt=\"A Joke\" width=\"550\" height=\"455\" /></p>\n<p>Jean-L&eacute;on G&eacute;r&ocirc;me, <em>A Joke</em>, 1882, oil on canvas (private collection).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:58:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672340286327",
+    "dcterms:modified" : "2022-12-29T20:54:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1932,1408,57,130"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1932.34125,1408.34416h28.72727v0h28.72727v65.09091v65.09091h-28.72727h-28.72727v-65.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_a1cc3f91-f56d-41d3-b847-48005761717c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"27.76686\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jean-L&eacute;on G&eacute;r&ocirc;me, The Grief of the Pasha, 1885, oil on canvas; 92x73 cm (United States, Nebraska, Joslyn Art Museum).\n<img src=\"https://www.joslyn.org/post/sections/56/Files/Gerome-The-Grief-of-the-Pasha-1990(2).1.jpg\" alt=\"Painting of a man in staring at the lifeless body of a tiger\" width=\"400\" height=\"509\" />\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jean-L&eacute;on G&eacute;r&ocirc;me, <em>The Grief of the Pasha</em>, 1885, oil on canvas; 92x73 cm (United States, Nebraska, Joslyn Art Museum).</p>\n<p><img src=\"https://www.joslyn.org/post/sections/56/Files/Gerome-The-Grief-of-the-Pasha-1990(2).1.jpg\" alt=\"Painting of a man in staring at the lifeless body of a tiger\" width=\"400\" height=\"509\" /></p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:11:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672243898706",
+    "dcterms:modified" : "2022-12-29T20:53:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1280,1016,192,261"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1280.46519,1015.75888l3.34766,261.11778l187.46918,-10.04299l1.67383,-249.40096z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_9ef24542-ff2f-4375-b833-3b940669d59f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"27.76686\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chinese double-gourd vase.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chinese double-gourd vase.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:57:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672340238336",
+    "dcterms:modified" : "2022-12-29T21:00:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2281,1143,108,162"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2280.68542,1143.24146h54.18182v0h54.18182v81v81h-54.18182h-54.18182v-81z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_4a8b1850-587e-420d-a478-377bc741fac0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jean-L&eacute;on G&eacute;r&ocirc;me (1824&ndash;1904) was a French Orientalist painter and sculptor. As an academic artist, G&eacute;r&ocirc;me was widely acclaimed, and maybe one of the most famous painter of his time. His work participated in the construction and the diffusion of a particular vision of Northern Africa and Asia as a fictive \"Orient\", a faraway land with mixed elements of various cultures.\nHis studio, described by Gustave Goetschy as \"busier and richer than an Oriental bazaar\", received his many models and students. Furnished richly and decorated with his personal collection, he found in his studio the inspiration for his Orientalist paintings, but also props for models to pose with. Like his work, G&eacute;r&ocirc;me's workspace was eclectic, cultivating a taste for the Orient with objects from various countries he could then use to fill his canvases.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cormon_-_Le_Sculpteur_au_travail.jpg/461px-Cormon_-_Le_Sculpteur_au_travail.jpg\" alt=\"Portrait of G&eacute;r&ocirc;me in his studio\" width=\"400\" height=\"521\" />\nFernand Cormon, Portrait of G&eacute;r&ocirc;me in his studio, 1891, oil on canvas (France, Vesoul, Georges Garret Museum).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jean-L&eacute;on G&eacute;r&ocirc;me (1824&ndash;1904) was a French Orientalist painter and sculptor. As an academic artist, G&eacute;r&ocirc;me was widely acclaimed, and maybe one of the most famous painter of his time. His work participated in the construction and the diffusion of a particular vision of Northern Africa and Asia as a fictive \"Orient\", a faraway land with mixed elements of various cultures.</p>\n<p>His studio, described by Gustave Goetschy as \"busier and richer than an Oriental bazaar\", received his many models and students. Furnished richly and decorated with his personal collection, he found in his studio the inspiration for his Orientalist paintings, but also props for models to pose with. Like his work, G&eacute;r&ocirc;me's workspace was eclectic, cultivating a taste for the Orient with objects from various countries he could then use to fill his canvases.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cormon_-_Le_Sculpteur_au_travail.jpg/461px-Cormon_-_Le_Sculpteur_au_travail.jpg\" alt=\"Portrait of G&eacute;r&ocirc;me in his studio\" width=\"400\" height=\"521\" /></p>\n<p>Fernand Cormon, <em>Portrait of G&eacute;r&ocirc;me in his studio</em>, 1891, oil on canvas (France, Vesoul, Georges Garret Museum).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:48:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672339723666",
+    "dcterms:modified" : "2022-12-29T21:17:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=685,1169,328,437"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M684.97226,1168.962h164.06268v0h164.06268v218.60053v218.60053h-164.06268h-164.06268v-218.60053z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5bdb05e2-5a02-4d31-a58d-a3f836580880\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.65679\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Through his life, Jean-L&eacute;on G&eacute;r&ocirc;me gathered a collection of weapons from various North African and Asian countries. His collection was used as props in his paintings of a phantasmagorical Orient.\n<img src=\"https://cdn.gallerix.asia/sr/G/1691523208/743907219.jpg\" alt=\"A Weapons Merchant\" width=\"400\" height=\"494\" />\nJean-L&eacute;on G&eacute;r&ocirc;me, A Weapons Merchant in Cairo, 1869, oil on canvas (private collection).\nThe helmets, shields and guns depicted are all from G&eacute;r&ocirc;me personal collection.\nEven though G&eacute;r&ocirc;me tried to emulate authenticity in this depiction of the daily life in Egypt, the helmets are Indian, illustrating the generalization made about the \"Orient\" as an unchanging entity with no differences between cultures.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Through his life, Jean-L&eacute;on G&eacute;r&ocirc;me gathered a collection of weapons from various North African and Asian countries. His collection was used as props in his paintings of a phantasmagorical Orient.</p>\n<p><img src=\"https://cdn.gallerix.asia/sr/G/1691523208/743907219.jpg\" alt=\"A Weapons Merchant\" width=\"400\" height=\"494\" /></p>\n<p>Jean-L&eacute;on G&eacute;r&ocirc;me, <em>A Weapons Merchant in Cairo</em>, 1869, oil on canvas (private collection).</p>\n<p>The helmets, shields and guns depicted are all from G&eacute;r&ocirc;me personal collection.</p>\n<p>Even though G&eacute;r&ocirc;me tried to emulate authenticity in this depiction of the daily life in Egypt, the helmets are Indian, illustrating the generalization made about the \"Orient\" as an unchanging entity with no differences between cultures.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T19:12:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672341172152",
+    "dcterms:modified" : "2022-12-29T20:53:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1674,559,387,703"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1673.50038,559.42199h193.61634v0h193.61634v351.57149v351.57149h-193.61634h-193.61634v-351.57149z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_d3fb3ff8-7549-47c7-86ed-5cc2899e3f0e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"27.76686\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese armor. Despite Eastern Asia being scarcely represented in G&eacute;r&ocirc;me's work, the eclecticism of his collection is characteristic of nineteenth century collectors, whose Asian and Middle Eastern objects often figured amongst larger collections of contemporary works, antique and medieval art, furnitures, etc.\nG&eacute;r&ocirc;me still visibly took an interest in Japan:\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Japanese_Emploring_A_Deity.jpg/494px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Japanese_Emploring_A_Deity.jpg?20161009204256\" alt=\"Japanese Emploring A Deity\" width=\"400\" height=\"485\" />\nJean-L&eacute;on G&eacute;r&ocirc;me, Japanese Emploring A Deity, oil on canvas (private collection).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Japanese armor. Despite Eastern Asia being scarcely represented in G&eacute;r&ocirc;me's work, the eclecticism of his collection is characteristic of nineteenth century collectors, whose Asian and Middle Eastern objects often figured amongst larger collections of contemporary works, antique and medieval art, furnitures, etc.</p>\n<p>G&eacute;r&ocirc;me still visibly took an interest in Japan:</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Japanese_Emploring_A_Deity.jpg/494px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Japanese_Emploring_A_Deity.jpg?20161009204256\" alt=\"Japanese Emploring A Deity\" width=\"400\" height=\"485\" /></p>\n<p>Jean-L&eacute;on G&eacute;r&ocirc;me, <em>Japanese Emploring A Deity</em>, oil on canvas (private collection).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:57:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672340222340",
+    "dcterms:modified" : "2022-12-29T20:53:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2080,981,146,297"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2079.77633,981.42328h72.81818v0h72.81818v148.72727v148.72727h-72.81818h-72.81818v-148.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_a5d23928-3f2b-4fbb-b131-bed6220c758a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"19.99214\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hexagonal Chinese lantern. The six sides, often in paper or glass, were decorated with characters or landscapes. Highly decorative, Chinese and Japanese objects were imported during the nineteenth century and bought by collectors, or even by amateurs to decorate their homes.\n<img src=\"https://www.musees-mah-lehavre.fr/sites/default/files/styles/full_max/public/2021-12/_FD39327.jpg?itok=75K_nesE\" alt=\"Lantern\" width=\"400\" height=\"629\" />\nChinese lantern, 18th century, bamboo and paper (France, Le Havre Museum of Art and History).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hexagonal Chinese lantern. The six sides, often in paper or glass, were decorated with characters or landscapes. Highly decorative, Chinese and Japanese objects were imported during the nineteenth century and bought by collectors, or even by <em>amateurs</em> to decorate their homes.</p>\n<p><img src=\"https://www.musees-mah-lehavre.fr/sites/default/files/styles/full_max/public/2021-12/_FD39327.jpg?itok=75K_nesE\" alt=\"Lantern\" width=\"400\" height=\"629\" /></p>\n<p>Chinese lantern, 18th century, bamboo and paper (France, Le Havre Museum of Art and History).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T18:49:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672339760377",
+    "dcterms:modified" : "2022-12-29T20:53:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1321,359,174,279"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1321.09779,359.15h86.90909v0h86.90909v139.63636v139.63636h-86.90909h-86.90909v-139.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_58f19ddc-d93f-4556-af6a-fe78fe58a852\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"27.76686\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
+    } ]
+  } ],
+  "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/gerome.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
