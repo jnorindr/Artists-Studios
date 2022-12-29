@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This work is a small-scale reproduction of At the School Door, a plaster sculpture Falgui&egrave;re realized in 1887. The original work is exhibited at the Mus&eacute;e des Augustins in Toulouse.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alexandre_Falgui%C3%A8re_-_A_la_porte_de_l%27%C3%A9cole_-_Mus%C3%A9e_des_Augustins_-_RA_955.jpg/392px-Alexandre_Falgui%C3%A8re_-_A_la_porte_de_l%27%C3%A9cole_-_Mus%C3%A9e_des_Augustins_-_RA_955.jpg\" alt=\"\" width=\"392\" height=\"600\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This work is a small-scale reproduction of <em>At the School Door</em>, a plaster sculpture Falgui&egrave;re realized in 1887. The original work is exhibited at the Mus&eacute;e des Augustins in Toulouse.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alexandre_Falgui%C3%A8re_-_A_la_porte_de_l%27%C3%A9cole_-_Mus%C3%A9e_des_Augustins_-_RA_955.jpg/392px-Alexandre_Falgui%C3%A8re_-_A_la_porte_de_l%27%C3%A9cole_-_Mus%C3%A9e_des_Augustins_-_RA_955.jpg\" alt=\"\" width=\"392\" height=\"600\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:19:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672244380067",
+    "dcterms:modified" : "2022-12-29T21:29:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1300,451,123,314"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1300.22004,451.00589h61.64833v0h61.64833v156.95285v156.95285h-61.64833h-61.64833v-156.95285z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_edac7ae2-f8d4-4182-9860-9bb1e0d122a6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"0.97072\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://95cd42fb-80df-4173-9125-68776e12c216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alexandre Falgui&egrave;re, Portrait of L&eacute;on Gambetta, 1884.\n<img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0301000138/006497.jpg\" alt=\"Portrait of Gambetta\" width=\"399\" height=\"600\" />\nAfter the death of Gambetta, the government organized a contest for a commemorative monument. Falgui&egrave;re entered the contest with this bust of Gambetta. A porcelain version of the bust was produced by the Manufacture de S&egrave;vre between 1897 and 1933.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Alexandre Falgui&egrave;re, <em>Portrait of L&eacute;on Gambetta</em>, 1884.</p>\n<p><img src=\"https://s3.eu-west-3.amazonaws.com/pop-phototeque/joconde/M0301000138/006497.jpg\" alt=\"Portrait of Gambetta\" width=\"399\" height=\"600\" /></p>\n<p>After the death of Gambetta, the government organized a contest for a commemorative monument. Falgui&egrave;re entered the contest with this bust of Gambetta. A porcelain version of the bust was produced by the Manufacture de S&egrave;vre between 1897 and 1933.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T21:38:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672349909916",
+    "dcterms:modified" : "2022-12-29T21:38:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1097,389,62,137"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1096.90909,388.53196h31v0h31v68.72727v68.72727h-31h-31v-68.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f2eb6d85-d722-45cd-a50a-b775cbf10f63\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://95cd42fb-80df-4173-9125-68776e12c216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alexandre Falgui&egrave;re, Bacchantes Fighting, c. 1886, plaster (France, Paris, Petit Palais).\n<img src=\"https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/PPA/lpdp_190002-15.jpg?itok=XMDtzaaq\" alt=\"Bacchantes fighting\" width=\"500\" height=\"375\" />\n<img src=\"https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public/atoms/images/PPA/lpdp_201307-15.jpg?itok=r9qovKa-\" alt=\"\" width=\"500\" height=\"375\" />\nFalgui&egrave;re represented this subject of the Bacchantes in a painting, currently exhibited in the Orsay Museum.\n<img src=\"https://cdn.mediatheque.epmoo.fr/link/aqu189jpsmdmn8g.jpg\" alt=\"Bacchantes\" width=\"400\" height=\"555\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Alexandre Falgui&egrave;re, <em>Bacchantes Fighting</em>, c. 1886, plaster (France, Paris, Petit Palais).</p>\n<p><img src=\"https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/PPA/lpdp_190002-15.jpg?itok=XMDtzaaq\" alt=\"Bacchantes fighting\" width=\"500\" height=\"375\" /></p>\n<p><img src=\"https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama/public/atoms/images/PPA/lpdp_201307-15.jpg?itok=r9qovKa-\" alt=\"\" width=\"500\" height=\"375\" /></p>\n<p>Falgui&egrave;re represented this subject of the Bacchantes in a painting, currently exhibited in the Orsay Museum.</p>\n<p><img src=\"https://cdn.mediatheque.epmoo.fr/link/aqu189jpsmdmn8g.jpg\" alt=\"Bacchantes\" width=\"400\" height=\"555\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:19:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672244363798",
+    "dcterms:modified" : "2022-12-29T21:24:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=52,69,902,778"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M954.38703,847.07662h-451.20138v0h-451.20138v-388.88212v-388.88212h451.20138h451.20138v388.88212z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_48bfa581-519f-46cc-a255-4c6c125d73aa\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"16.50295\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://95cd42fb-80df-4173-9125-68776e12c216"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alexandre Falgui&egrave;re (1831&ndash;1900) was a French sculptor and painter. After a traditional academic training, he taught at the Acad&eacute;mie des beaux-arts, and received numerous requests for commemorative monuments from the French government.\nAs a sculptor, his studio is located on the ground floor, with enough space to circulate around his work. B&eacute;nard's photograph represents Falgui&egrave;re absorbed in his work, browsing through a portfolio while working on his Bacchantes Fighting, exhibited during the Salon of 1886: the scene seems unposed, and Falgui&egrave;re chose, in his studio, to highlight his work as a prominent sculptor.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Alexandrefalguiere.JPG/366px-Alexandrefalguiere.JPG?20100822203422\" alt=\"Alexandre Falgui&egrave;re\" width=\"366\" height=\"599\" />\nAuguste Rodin, Alexandre Falgui&egrave;re, 1897, bronze (France, Paris, Rodin Museum).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Alexandre Falgui&egrave;re (1831&ndash;1900) was a French sculptor and painter. After a traditional academic training, he taught at the Acad&eacute;mie des beaux-arts, and received numerous requests for commemorative monuments from the French government.</p>\n<p>As a sculptor, his studio is located on the ground floor, with enough space to circulate around his work. B&eacute;nard's photograph represents Falgui&egrave;re absorbed in his work, browsing through a portfolio while working on his <em>Bacchantes Fighting</em>, exhibited during the Salon of 1886: the scene seems unposed, and Falgui&egrave;re chose, in his studio, to highlight his work as a prominent sculptor.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Alexandrefalguiere.JPG/366px-Alexandrefalguiere.JPG?20100822203422\" alt=\"Alexandre Falgui&egrave;re\" width=\"366\" height=\"599\" /></p>\n<p>Auguste Rodin, <em>Alexandre Falgui&egrave;re</em>, 1897, bronze (France, Paris, Rodin Museum).</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/106514875",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T16:20:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672244400692",
+    "dcterms:modified" : "2022-12-29T22:05:12",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=964,575,433,579"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M963.55992,574.778h216.36346v0h216.36346v289.389v289.389h-216.36346h-216.36346v-289.389z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cdf3751a-ef44-46d6-b476-2aa23f2cd076\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.50295\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://95cd42fb-80df-4173-9125-68776e12c216"
+    } ]
+  } ],
+  "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/falguiere.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
