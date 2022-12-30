@@ -3,6 +3,11 @@
   "@id" : "https://jnorindr.github.io/Artists-Studios/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Edmond Bénard, Artists' studios, 1890-1910",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/106514875/5c253a54848a357dae0896bf5c73a6be/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "Edmond Bénard (1838-1907)"
@@ -67,6 +72,10 @@
         },
         "on" : "http://303fb864-6520-46c1-a35d-d02cf2886ff5"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/bouguereau.json",
+        "@type" : "sc:AnnotationList"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95",
@@ -99,6 +108,10 @@
         },
         "on" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/chavannes.json",
+        "@type" : "sc:AnnotationList"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://42333f2a-e37e-45e7-940f-48ca04289ec0",
@@ -130,6 +143,10 @@
           "width" : 1638
         },
         "on" : "http://42333f2a-e37e-45e7-940f-48ca04289ec0"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/nouy.json",
+        "@type" : "sc:AnnotationList"
       } ],
       "related" : ""
     }, {
@@ -194,6 +211,10 @@
           "width" : 1638
         },
         "on" : "http://95cd42fb-80df-4173-9125-68776e12c216"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/falguiere.json",
+        "@type" : "sc:AnnotationList"
       } ],
       "related" : ""
     } ]
