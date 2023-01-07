@@ -180,6 +180,10 @@
         },
         "on" : "http://48ada32f-6714-4453-aaeb-0b98fa926cc7"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://jnorindr.github.io/Artists-Studios/annotations/gerome.json",
+        "@type" : "sc:AnnotationList"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://95cd42fb-80df-4173-9125-68776e12c216",
