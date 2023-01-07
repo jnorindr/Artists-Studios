@@ -133,10 +133,9 @@
       "full" : "http://b41d4034-68f9-4ddd-bc9d-b8ffdbbb7d95"
     } ]
   }, {
-    "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, Peace, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg/1236px-Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg\" alt=\"Painting of a group of people in an Antique setting\" width=\"550\" height=\"399\" />\nThis work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).\n&nbsp;",
-      "@type" : "dctypes:Text",
+    "resource" : [ {"@type" : "dctypes:Text",
       "format" : "text/html",
+      "http://dev.llgc.org.uk/sas/full_text" : "Pierre Puvis de Chavannes, Peace, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg/1236px-Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg\" alt=\"Painting of a group of people in an Antique setting\" width=\"550\" height=\"399\" />\nThis work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).\n&nbsp;",
       "chars" : "<p>Pierre Puvis de Chavannes, Peace, 1867, oil on canvas, 108x148 cm (United States, Pennsylvania, Philadelphia Museum of Art).</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg/1236px-Pierre_Puvis_de_Chavannes%2C_French_-_Peace_-_Google_Art_Project.jpg\" alt=\"Painting of a group of people in an Antique setting\" width=\"550\" height=\"399\" /></p>\n<p>This work is a reduced version of a painting that Chavannes realized in 1861 for the staircase of the Picardie museum (Amiens).</p>\n<p>&nbsp;</p>"
     } ],
     "@type" : "oa:Annotation",
